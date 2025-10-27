@@ -21,3 +21,8 @@ Python 3.11 | Scikit-Learn | TensorFlow | NLTK | Tweepy | Pandas | NumPy
 ```bash
 pip install -r requirements.txt
 python main.py
+
+# Results
+Naive Bayes Accuracy ≈ 85 %
+SVM Accuracy ≈ 90 %
+Evaluation: Precision, Recall, F1-Score
